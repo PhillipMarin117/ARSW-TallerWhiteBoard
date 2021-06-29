@@ -1,0 +1,4 @@
+edu\escuelaing\arsw\app\BBAppStarter.class
+edu\escuelaing\arsw\app\controllers\DrawingServiceController.class
+edu\escuelaing\arsw\app\endpoints\BBEndpoint.class
+edu\escuelaing\arsw\app\configurator\BBConfigurator.class

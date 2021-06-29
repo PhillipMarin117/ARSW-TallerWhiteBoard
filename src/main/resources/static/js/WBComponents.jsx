@@ -64,12 +64,11 @@ class BBCanvas extends React.Component {
         let wsreference = this.comunicationWS; // referencia al mismo objeto para crear la funcion para que el servidor no se confunda
         // Dibuja los puntos
         this.sketch = function (p) {
-
+            let x = 100;
+            let y = 100;
             p.setup = function () {
                 p.createCanvas(700, 410);
             };
-
-
             p.draw = function () {
                 if (p.mouseIsPressed === true) {
                     p.fill(0, 0, 0);
