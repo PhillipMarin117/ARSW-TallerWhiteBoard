@@ -29,7 +29,7 @@ https://board-online-react.herokuapp.com/
 
 ## Authors
 * **Felipe Marín** -  Fecha: 29/06/2021
-* 
+* **Daniel Benavides -(Profesor)**
 ## Licencia
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
